@@ -320,4 +320,4 @@ This tool is designed for:
 
 ## 📄 License
 
-For authorized and educational use. By **cyber**. ..
+For authorized and educational use. By **cyber**. 

@@ -1,0 +1,8 @@
+# H_S_NetCAT Dependencies
+# Core (required)
+dnspython>=2.4.0
+requests>=2.31.0
+
+# Optional - Enhanced features
+paramiko>=3.3.0        # SSH brute force module
+scapy>=2.5.0           # Advanced packet crafting (optional)
